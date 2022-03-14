@@ -64,5 +64,7 @@ Here are some ideas to get you started:
  
  
 <div> 
+  
   ![Snake animation](https://github.com/rosicley/rosicley/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
