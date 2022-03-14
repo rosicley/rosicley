@@ -36,5 +36,6 @@ Here are some ideas to get you started:
   <a href = "mailto:rosicley.eng@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rosicley-júnio-rodrigues-rosa-a5580610b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
+  ![Snake animation](https://github.com/rosicley/rosicley/blob/output/github-contribution-grid-snake.svg)
+
 </div>
