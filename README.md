@@ -1,4 +1,4 @@
-# Hey there! I'm Rosicley 👋
+# Hey there! I'm Rosicley👋🏻
 
 <div> 
   <a href = "mailto:rosicley.eng@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -8,7 +8,7 @@
 
 ###
 
-- 👦 I’m a PhD student venturing into the data science world!
+- 👦🏻 I’m a PhD student venturing into the data science world!
 - 🎓 Graduated in Civil Engineering (PUC-GO) and Master in Structural Engineering (USP).
 - 💻 My coding journey started in August 2019.
 - 📚 I'm currently learning Python and data science tools and also improving my C++ skills. 
