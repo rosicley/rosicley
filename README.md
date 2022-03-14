@@ -1,4 +1,33 @@
-## Hey there! I'm Rosicley 👋
+# Hey there! I'm Rosicley 👋
+
+<div> 
+  <a href = "mailto:rosicley.eng@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5562981928239&text=Ol%C3%A1%2C%20sinta-se%20livre%20para%20conversar%20comigo."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rosicley-júnio-rodrigues-rosa-a5580610b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+###
+
+- 👦 I’m a PhD student venturing into the data science world!
+- 🎓 Graduated in Civil Engineering (PUC-GO) and Master in Structural Engineering (USP).
+- 💻 My coding journey started in August 2019.
+- 📚 I'm currently learning Python and data science tools and also improving my C++ skills. 
+- 🥋 Brazilian jiu-jitsu practitioner.
+- ⚡ <em>Trying to be a little better everyday.</em>
+
+##
+
+### :star: Main Techs & Skills:
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+
+
+</div>
+
+##
 
 <!--
 **rosicley/rosicley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div align="center">
   <a href="https://github.com/rosicley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosicley&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -28,13 +58,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Ane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ane-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
 </div>
-  
+ -->
+ 
   ##
  
 <div> 
-   
-  <a href = "mailto:rosicley.eng@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rosicley-júnio-rodrigues-rosa-a5580610b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/rosicley/rosicley/blob/output/github-contribution-grid-snake.svg)
 
