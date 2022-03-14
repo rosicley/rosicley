@@ -26,9 +26,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-
-
 </div>
 
 ##
@@ -64,11 +61,8 @@ Here are some ideas to get you started:
 </div>
  -->
  
-  ##
+ 
  
 <div> 
-  
- 
   ![Snake animation](https://github.com/rosicley/rosicley/blob/output/github-contribution-grid-snake.svg)
-
 </div>
