@@ -2,7 +2,7 @@
 
 <div> 
   <a href = "mailto:rosicley.eng@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5562981928239&text=Ol%C3%A1%2C%20sinta-se%20livre%20para%20conversar%20comigo."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5562981928239&text=Hey!%20I%20found%20you%20on%20GitHub!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rosicley-júnio-rodrigues-rosa-a5580610b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
