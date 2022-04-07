@@ -8,7 +8,7 @@
 
 ###
 
-- 👦🏻 I’m a PhD student venturing into the data science world!
+- 👦🏻 I’m a PhD student venturing into the programming world!
 - 🎓 Graduated in Civil Engineering (PUC-GO) and Master in Structural Engineering (USP).
 - 💻 My coding journey started in August 2019.
 - 📚 I'm currently learning Python and data science tools and also improving my C++ skills. 
