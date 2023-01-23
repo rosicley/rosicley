@@ -1,10 +1,5 @@
 # Hey there! I'm Rosicley👋🏻
 
-<div> 
-  <a href = "mailto:rosicley.eng@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5562981928239&text=Hey!%20I%20found%20you%20on%20GitHub!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
-
 ###
 
 - 👦🏻 I’m a PhD student venturing into the programming world!
