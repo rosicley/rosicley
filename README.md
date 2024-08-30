@@ -4,9 +4,7 @@
 
 - 👦🏻 I’m a PhD student venturing into the programming world!
 - 🎓 Graduated in Civil Engineering (PUC-GO) and Master in Structural Engineering (USP).
-- 💻 My coding journey started in August 2019.
 - 🥋 Brazilian jiu-jitsu practitioner.
-- ⚡ <em>Trying to be a little better everyday.</em>
 
 ##
 
