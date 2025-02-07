@@ -13,7 +13,7 @@ I'm a **Software Engineer** and **Computational Mechanics Researcher** with a ba
 
 ---
 
-## Tech Stack & Badges
+## Tech Stack
 
 ### Programming Languages
 
@@ -50,6 +50,7 @@ I'm a **Software Engineer** and **Computational Mechanics Researcher** with a ba
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ---
 
